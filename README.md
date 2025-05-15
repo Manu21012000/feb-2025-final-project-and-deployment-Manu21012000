@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/shopease](https://github.com/yourusername/shopease)
+Project Link: [https://github.com/Manu21012000/shopease](https://github.com/Manu21012000/shopease)
